@@ -1,0 +1,51 @@
+{
+  "Water Bottles": {
+    "category": "Water & Sanitation",
+    "quantity": 1500,
+    "unit": "liters",
+    "threshold": 500,
+    "last_updated": "2026-06-30T12:00:00"
+  },
+  "First Aid Kits": {
+    "category": "Medical Supplies",
+    "quantity": 120,
+    "unit": "kits",
+    "threshold": 150,
+    "last_updated": "2026-06-30T11:45:00"
+  },
+  "Canned Food": {
+    "category": "Food & Nutrition",
+    "quantity": 800,
+    "unit": "cans",
+    "threshold": 300,
+    "last_updated": "2026-06-30T10:30:00"
+  },
+  "Blankets": {
+    "category": "Shelter & Bedding",
+    "quantity": 350,
+    "unit": "pieces",
+    "threshold": 100,
+    "last_updated": "2026-06-30T09:15:00"
+  },
+  "Tents": {
+    "category": "Shelter & Bedding",
+    "quantity": 45,
+    "unit": "tents",
+    "threshold": 50,
+    "last_updated": "2026-06-30T08:00:00"
+  },
+  "Flashlights": {
+    "category": "Operational Equipment",
+    "quantity": 200,
+    "unit": "units",
+    "threshold": 50,
+    "last_updated": "2026-06-30T07:30:00"
+  },
+  "Solar": {
+    "category": "Food & Nutrition",
+    "quantity": 10,
+    "unit": "units",
+    "threshold": 10,
+    "last_updated": "2026-06-30T12:26:55.007332"
+  }
+}
